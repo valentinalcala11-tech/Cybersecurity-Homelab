@@ -24,7 +24,6 @@ In this lab, I designed and built a small enterprise style network from the grou
 - <b>Bash</b>
 - <b>VMware Workstation</b>
 - <b>Nessus Essentials</b>
-- <b>PuTTY / OpenSSH</b>
 - <b>Windows Administrative Tools</b>
 - <b>ipconfig / nslookup / netstat</b>
 - <b>Nano / Vi</b>
