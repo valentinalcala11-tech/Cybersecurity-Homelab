@@ -58,7 +58,7 @@ Install VMWare and a Linux Distribution using an ISO: <br/>
 <img src="https://cdn.discordapp.com/attachments/1450570497715736579/1451085998674153524/image.png?ex=695953e5&is=69580265&hm=6a50017338dc9859e4d9ce19d65835ce17b35abccd69b6c3d72f65bb3afe5819" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Create a Windows server VM using ISO, select the disk, remove the floppy disk if it appears:  <br/>
+Create a Windows server VM using an ISO, select the disk, remove the floppy disk if it appears:  <br/>
 <img src="https://cdn.discordapp.com/attachments/1451059973282074765/1451995757728239818/Screenshot_2025-12-20_115217.png?ex=6959576d&is=695805ed&hm=cc51de3bbc88f99f39af3ec0d98a9da1eaf65e7f4ccdc28d92c3ccc263c1768a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
