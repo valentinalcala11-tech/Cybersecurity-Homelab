@@ -30,8 +30,9 @@ In this lab, I designed and built a small enterprise style network from the grou
 
 <h2>Guides/References Used</h2>
 -<a href="https://cybercademy.org/cybersecurity-homelab-project/" target="_blank">
-  Cybersecurity Homelab Project
+  Cybersecurity Homelab Project 
 </a>
+(with modifications)
 
 -<a href="https://www.lepide.com/blog/top-10-most-important-group-policy-settings-for-preventing-security-breaches/" target="_blank">
   GPO Policy Settings
@@ -199,12 +200,5 @@ Finally, observe the findings. Not many due to it being a VM:  <br/>
 <img src="https://cdn.discordapp.com/attachments/1454949151035883612/1455608974253621368/image.png?ex=69594d7f&is=6957fbff&hm=120fd0f3800313773d9961ee2f3841f37be0d33e9d11e31150c20776f9d60528" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h2 style="text-align: center;">Conclusion</h2>
+<ul>This homelab project was built to simulate a small enterprise environment with services like centralized user management, group policies, VPN access, and basic security tools. Most of the setup went smoothly once the core systems were in place, but the VPN caused several issues related to routing, authentication, and client connectivity that took time to troubleshoot. Fixing these problems helped me better understand how VPNs interact with firewalls, user permissions, and different operating systems. Through this project, I learned how individual services depend on each other and how small misconfigurations can break connectivity. The lab also showed areas that could be improved, such as clearer VPN documentation, stronger access controls, and better testing. Overall, this project helped strengthen my troubleshooting skills and gave me practical experience with real-world networking and security concepts.</ul>
