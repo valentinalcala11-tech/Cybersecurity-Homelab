@@ -88,7 +88,7 @@ Install Windows 10 enterprise:  <br/>
 <br />
 <br />
 Configure VMNet1 (virtual network) and turn off local dhcp client:  <br/>
-<img src="images/Screenshot 2025-12-21 122648.png" height="80%" width="80%" />
+<img src="images/Screenshot 2025-12-21 122659.png" height="80%" width="80%" />
 <br />
 <br />
 Configure auto ipv4 settings to test DHCP on Windows 10 enterprise:  <br/>
